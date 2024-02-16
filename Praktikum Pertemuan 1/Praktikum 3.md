@@ -54,5 +54,5 @@
 > Jawab: Tidak ada. Karena data dari kode_penjualan 2 dan kode_barang 3 sudah ada ditabel, jadi data bisa langsung ditambahkan.
 
 6. SOAL 6
--Terangkan apa yang bisa anda pahami dari soal 1-5 terkait dengan duplikasi dan inkonsisten data 
+- Terangkan apa yang bisa anda pahami dari soal 1-5 terkait dengan duplikasi dan inkonsisten data 
 > Jawab: Adanya data yang sama (Duplikasi) disimpan di kode_penjualan yang menyebabkan data tidak dapat ditambahkan.Dan munculnya data yang tidak konsisten pada medan/kolom yang sama (Inkonsisten data) dalam satu atau beberapa file data yang dihubungkan/direlasikan.
