@@ -1,20 +1,19 @@
-# Learn-MyPHP-Admin
-- **Praktikum 1**
+**PRAKTIKUM 1**
 
->1. Menjalankan Apache dan MySQL
+- 1.Menjalankan Apache dan MySQL
 <p align="center">
   <img width="460" height="300" src="https://i.imgur.com/5tRTW02.png">
 </p>
 
 
->2.Menjalankan http://localhost/phpmyadmin pada web browser
->
->3.Lalu Create database dengan nama : penjualan_produk
+- 2.Menjalankan http://localhost/phpmyadmin pada web browser
+
+- 3.Lalu Create database dengan nama : penjualan_produk
 <p align="center">
   <img width="460" height="300" src="https://i.imgur.com/Ma6cDuT.png">
 </p>
 
->4.Lalu import file penjualan_produk.sql
+- 4.Lalu import file penjualan_produk.sql
 <p align="center">
   <img width="460" height="300" src="https://i.imgur.com/nVQ4QRG.png">
 </p>
