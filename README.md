@@ -1,6 +1,4 @@
 # Learn-MyPHP-Admin
-**Praktikum Basis Data Pertemuan 1**
-
 - **Praktikum 1**
 
 >1. Menjalankan Apache dan MySQL
