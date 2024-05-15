@@ -3,7 +3,8 @@ PRAKTIKUM MEMBUAT DATABASE dg MySQL
 Menambah kolom agama
 =
 Tambahkan sebuah kolom agama (varchar(10)) pada tabel mahasiswa sebagai kolom terakhir
-![image](https://github.com/H6ybaangelie/RephpMyAdmin/assets/160241734/301230b7-2bcc-4a54-a2ab-d1764d82c18b)
+![image](https://github.com/llaaa4/Learn-MyPHP-Admin/assets/160198256/610c2965-2766-44d9-9371-05b9267308ba)
+
 
 Tambah kolom alamat
 =
@@ -16,7 +17,8 @@ Lakukan insert data ke dalam tabel-tabel yang ada pada pada database db_polinema
 
 Isian data dosen
 =
-![image](https://github.com/H6ybaangelie/RephpMyAdmin/assets/160241734/3b7f9cb9-4a19-44b7-a04c-21c4d3debed5)
+![image]![Cuplikan layar 2024-05-15 185345](https://github.com/llaaa4/Learn-MyPHP-Admin/assets/160198256/eb7d72e0-0882-4794-baca-c18834563279)
+
 
 Isian data prodi
 =
