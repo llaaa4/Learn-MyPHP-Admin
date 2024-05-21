@@ -4,34 +4,44 @@
 
 
 # 1. Ubah nama mata kuliah “Basis Data” menjadi “Basis Data Dasar”!
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/8ac59590-44d8-4232-988c-3eb67b0befa4)
+![gambar](https://github.com/llaaa4/Learn-MyPHP-Admin/assets/160198256/1ad49a61-208b-4281-badc-241a0ab9703b)
+
 
 
 # 2. Ubah semua jadwal kuliah mata kuliah “Basis Data Dasar” menjadi hari Senin di jam pelajaran ke 5 sampai dengan jam pelajaran ke 10!
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/bd615896-5295-4251-b0fc-e16be4304d92)
+![gambar](https://github.com/llaaa4/Learn-MyPHP-Admin/assets/160198256/0d072f69-6265-4fbc-a3e3-eaf5d1629e71)
+
 
 
 # 3. Hapus jadwal perkuliahan “Kewarganegaraan” pada tabel jadwal!
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/a7732112-bb72-439b-b0d9-31c44e2198db)
+![gambar](https://github.com/llaaa4/Learn-MyPHP-Admin/assets/160198256/e84cb2b1-7f99-4ded-b2ef-ec9aa3d1c119)
 
 
-# 4. Tambahkan mata kuliah “Pancasila”, “Bela Negara”, “Wawasan Nusantara” pada tabel mk!
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/7edb9a10-7f02-4a21-8f00-1a29ec4267b5)
+# 4. Tambahkan mata kuliah “Kimia”, “Pancasila”, “Fisika” pada tabel mk!
+![gambar](https://github.com/llaaa4/Learn-MyPHP-Admin/assets/160198256/ae81be16-c705-475f-8900-d61d0518243c)
+
 
 
 # 5. Hapus semua isi data pada tabel mk_backup!
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/e30fd232-b105-4691-8242-b06156911046)
+![gambar](https://github.com/llaaa4/Learn-MyPHP-Admin/assets/160198256/deaaa197-469c-489f-a60d-afcbe933c8d7)
+
 
 
 # 6. Isi data tabel mk_backup dengan isi dari tabel mk!
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/a75b8f9a-8941-447b-9562-a8c9357d48cb)
+![gambar](https://github.com/llaaa4/Learn-MyPHP-Admin/assets/160198256/a3b0d8ff-66a4-417b-8e12-2885630b4f88)
+
 
 
 # 7. Buatlah tabel mahasiswa dengan atribut nim, nama_mahasiswa, kode_kelas. Dimana kode_kelas mereferensi kepada tabel kelas. 
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/5577f090-26d2-4355-b39a-62eb7679bec2)
+![gambar](https://github.com/llaaa4/Learn-MyPHP-Admin/assets/160198256/407ce47f-cc77-4f2e-a5e5-40d7362d8a05)
+
+
 
 # 8. Isi tabel tersebut dengan 10 nama mahasiswa yang memiliki nomor presensi berturt-turut setelah anda di kelas anda. Isi kode_kelas sesuai kode kelas anda saat ini. 
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/9abe937a-a942-4591-983b-61aaf6b1b429)
+![gambar](https://github.com/llaaa4/Learn-MyPHP-Admin/assets/160198256/6f81052f-982b-43bc-877b-2f3663161d40)
+
+
 
 # 9. Ubahlah kode_dosen mata kuliah “Basis Data Dasar” kelas anda pada tabel jadwal sesuai dengan dosen pengampu mata kuliah basis data anda saat ini !
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/5939d55d-8337-40ac-bf8d-151f68b78a73)
+![gambar](https://github.com/llaaa4/Learn-MyPHP-Admin/assets/160198256/e2e8da42-b53c-4b5d-ab80-c258ba5ac65b)
+
