@@ -3,7 +3,7 @@
 # 01. Tampilkan nama user dengan jenis kelamin perempuan diurutkan dengan Ascending
 
 # Konsep Map nya
-![Cuplikan layar 2024-06-08 115902](https://github.com/llaaa4/Learn-MyPHP-Admin/assets/160198256/5c9dc133-196b-4d6f-a0e7-9bfff64498a9)
+![Cuplikan layar 2024-06-09 234604](https://github.com/llaaa4/Learn-MyPHP-Admin/assets/160198256/4dc182ca-a540-4ece-bc02-b6b379a88cc3)
 
 # Query & Hasilnya
 ![Cuplikan layar 2024-06-10 0032456](https://github.com/llaaa4/Learn-MyPHP-Admin/assets/160198256/d139d4aa-ec99-455d-ac01-9bc8d6ad913b)
