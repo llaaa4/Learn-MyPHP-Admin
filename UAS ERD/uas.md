@@ -35,7 +35,8 @@ Selain menggunakan kategori sebuah berita juga dapat dikelompokkan berdasarkan s
 Untuk mempermudah interaksi antara pembaca dan penulis di sistem berita ini setiap berita yang dibuat dapat diberi komentar sebuah berita dapat dikomentari lebih dari satu kali oleh pembaca data yang dicatat pada komentar adalah komentar id komentar id ini bersifat unik kemudian isi komentar berupa text panjang maksimal 255 karakter nama pemberi komentar dan email pemberi komentar email harus dalam format email yang benar serta dicatat juga tanggal komentarnya.
 
 # Hasilnya
-![Cuplikan layar 2024-06-15 110541](https://github.com/llaaa4/Learn-MyPHP-Admin/assets/160198256/39eb842c-4584-4a8c-a2af-746f66e873db)
+![gambar](https://github.com/llaaa4/Learn-MyPHP-Admin/assets/160198256/c2f89424-a2fc-48cd-8c8b-c9322cee446c)
+
 
 
 
