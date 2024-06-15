@@ -58,7 +58,8 @@ sebuah kota dapat memiliki banyak prakiraan cuaca, dimana prakiraan cuaca ini di
 Setiap prakiraan cuaca memiliki maksimal satu kondisi cuaca dimana kondisi cuaca ini bersifat dinamis dapat ditambahkan secara mandiri oleh admin aplikasi, kondisi cuaca memiliki kondisi id yang bersifat unik dan nama kondisi yang berupa sebuah text dengan panjang maksimal 30 karakter. Kondisi cuaca ini dapat dipakai oleh lebih dari satu prakiraan cuaca.
 
 # Hasilnya 
-![Cuplikan layar 2024-06-15 110733](https://github.com/llaaa4/Learn-MyPHP-Admin/assets/160198256/12ada8a6-bce7-40c4-82a4-921706f85ac7)
+![gambar](https://github.com/llaaa4/Learn-MyPHP-Admin/assets/160198256/803574fd-f088-4ede-9e25-916ad6775eb2)
+
 
 
 
