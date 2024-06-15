@@ -10,7 +10,8 @@ seorang user boleh membuat banyak todo item setiap todo item memiliki todo item 
 Sebuah category dapat digunakan pada banyak todo item dan satu todo item wajib memiliki satu kategory, tidak ada todo item yang tidak memiliki kategori.
 
 # Hasilnya
-![Cuplikan layar 2024-06-15 093743](https://github.com/llaaa4/Learn-MyPHP-Admin/assets/160198256/184a4f9b-d07f-4163-8005-f8a0e70b2401)
+![gambar](https://github.com/llaaa4/Learn-MyPHP-Admin/assets/160198256/2746bcaa-ad54-4cb0-a1be-ab7dd7779937)
+
 
 
 
